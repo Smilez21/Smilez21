@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hey there, console.log("since you're here you might as well follow") Welcome to my coding realm! 🚀
+👋 Hey there, console.log("since you're here you might as well follow") Welcome! 🚀🚀
 
 🌟 Who? Me!
 I'm a relentless problem solver and coding maestro, always chasing the thrill of innovation. 💡
